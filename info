@@ -1,1 +1,24 @@
+<html>
+<head>
+<title>Ayush bantawa showcase</title>
+</head>
+<body>
+
+<h1 style="border-style:dotted;border-color:blue;text-decoration: underline;""color: lightblue;">Ayush Bantawa info</h1>
+<h2 style="border-width:thin;border-style:solid;border-color:blue;">Ayush Bantawa yeah me again</h2>
+<h3 style="font-family:Trebuchet,Helvetica,sans-serif;">Ayush Bantawa but smaller</h3>
+
+<p>Good morning,afternoon or evening everyone.This is a showcase of my uh me you could say.</p>
+<p>We will begin with some cool things I like.Starting with my hobbies:</p>
+<p> <img src= "https://wallpapercave.com/wp/wp2279287.png" alt="picture of basketball" height="350" width="350"> </p>
+<p>Here we have a picture of a fictional basketball player and this show is what got me into basketball pretty much.</p>
+<p> I think i'm quite decent at the sport but we'll find out by seeing if I get into the team or not.</p>
+<p> My favourite basketball players right now are probably (not in any perticular order): </p>
+<ol>
+  <li>Kobe </li>
+  <li>Kyrie Irving </li>
+  <li>Lebron James </li>
+  <li>Michael Jordan </li>
+</body>
+</html>
 
